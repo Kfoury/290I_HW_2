@@ -3,7 +3,7 @@
 
 
 #Intro
-This repo is intended for CS290I (Computer Science for Non_Computer Science) students. It contains sample skeleton code from HW_2. An easy way to start the homework would be to fork this repo. 
+This repo is intended for CS290I (Computer Science for Non-Computer Science) students. It contains sample skeleton code from HW_2. An easy way to start the homework would be to fork this repo. 
 
 ## Outcomes
 By the end of this HW you will be familiar with the basic object oriented programing principles applied in the Objective-C language.

@@ -13,7 +13,7 @@ Create a “Hello User” that displays a random user name every time a button (
 ```
 -(NSString*) generateRandom290IClassStudentName;
 ```
-The latter method shall be first allocated and instantiated when the view loads. Then called every time the user hits the button.
+The brain object shall be first allocated and instantiated when the view loads. Then then called every time the user hits the button.
 Skeleton app will be provided on b-courses.
 You can browse an acceptable submission via the following link :
 https://appetize.io/app/7196d1gxja4pfcn2rd8bp6p3j0

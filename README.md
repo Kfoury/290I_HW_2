@@ -1,5 +1,5 @@
-# 290I_HW_2
-# 
+# CS 290I: HW 2
+# iOS Personal Portfolio App
 
 
 #Intro
